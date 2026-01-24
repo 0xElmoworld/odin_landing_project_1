@@ -14,3 +14,6 @@ This is a landing page project from [The Odin Project](https://www.theodinprojec
 ## Files
 - `index.html` — main HTML file
 - `style.css` — CSS styling file
+
+## Image Credits
+- Photo by [Ilia Bronskiy](https://unsplash.com/@idbronskiy) on Unsplash
